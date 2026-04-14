@@ -36,7 +36,8 @@ It displays images in a clean 3x3 grid layout with smooth hover transition effec
 ---
 
 ## 🔗 Live Demo
-(Add your deployed link here)
+
+https://programmerr12.github.io/art-gallery/
 
 ---
 
